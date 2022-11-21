@@ -1,6 +1,6 @@
 //-------------------------------------------------------------
 // Assignment 4
-// Written by: Khalil Koudary, Student ID: 40088454
+// Written by: Khalil Koudary
 //For COMP 248 EC - Fall 2020
 //--------------------------------------------------------------
 /* this program is a battleship game against a computer.
