@@ -1,7 +1,7 @@
 // -----------------------------------------------------
 // Assignment 1
 // Question: Part I and II
-// Written by: Khalil Koudary (ID: 40088454)
+// Written by: Khalil Koudary
 //Assignment due date: Feb. 8th
 // -----------------------------------------------------
 /**
